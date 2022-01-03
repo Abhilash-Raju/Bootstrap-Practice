@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.myMargin{
+    margin: 20px ;
+       
+}
+.myBack{
+    background:radial-gradient(#ffd6d6, whitesmoke) ;
+    background: radial-gradient(#fff,#ffd6d6);
+    border-radius: 20px;
+}
+.myFloat{
+    display: inline-block;
+}
